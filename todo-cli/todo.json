@@ -1,0 +1,10 @@
+[
+    {
+        "task": "namaz parhi hain sari",
+        "done": false
+    },
+    {
+        "task": "bazar se grocery lani hai",
+        "done": true
+    }
+]
